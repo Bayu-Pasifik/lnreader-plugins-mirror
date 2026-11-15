@@ -1,0 +1,23 @@
+name: sync
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sinkron plugin
+        run: bash sync.sh
+      - name: Keepalive (cegah workflow dimatikan GitHub setelah 60 hari)
+        run: |
+          date -u +%F > .last-sync
+          if ! git diff --quiet; then
+            git -c user.name=mirror-bot -c user.email=mirror-bot@users.noreply.github.com commit -qam "chore: keepalive"
+            git push -q origin HEAD:main
+          fi
