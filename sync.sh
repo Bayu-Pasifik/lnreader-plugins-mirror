@@ -20,8 +20,8 @@ if [ "$newcount" -le 0 ]; then echo "manifest upstream kosong: sinkron dilewati"
 have=0
 if git ls-remote --exit-code --heads origin "$BR" >/dev/null 2>&1; then
   git fetch -q origin "$BR"
-  have=$(git show "origin/$BR:.dist/plugins.min.json" | count)
   git worktree add -q --detach "$work/wt" "origin/$BR"
+  have=$(count < "$work/wt/.dist/plugins.min.json")
 else
   git worktree add -q --detach "$work/wt"
   git -C "$work/wt" checkout -q --orphan data
