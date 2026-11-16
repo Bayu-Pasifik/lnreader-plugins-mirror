@@ -733,7 +733,7 @@
 		"name": "Fenrir Realm",
 		"site": "https://fenrirealm.com",
 		"lang": "English",
-		"version": "1.1.6",
+		"version": "1.2.0",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/fenrirrealm.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/fenrirrealm/icon.png"
 	},
@@ -1409,7 +1409,7 @@
 		"name": "Novel Bin",
 		"site": "https://novelbin.xyz/",
 		"lang": "English",
-		"version": "3.0.0",
+		"version": "3.0.1",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/novelbin.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/novelbin/icon.png"
 	},
@@ -1669,11 +1669,11 @@
 	{
 		"id": "penguinsquad",
 		"name": "Penguin Squad",
-		"site": "https://penguin-squad.com",
+		"site": "https://penguin-squad.com/",
 		"lang": "English",
-		"version": "1.3.0",
-		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/PenguinSquad[fictioneer].js",
-		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/multisrc/fictioneer/penguinsquad/icon.png"
+		"version": "2.0.0",
+		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/penguinsquad.js",
+		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/penguinsquad/icon.png"
 	},
 	{
 		"id": "pinkmuffintl",
