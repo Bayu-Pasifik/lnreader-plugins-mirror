@@ -1598,7 +1598,7 @@
 		"name": "Novel Updates",
 		"site": "https://www.novelupdates.com/",
 		"lang": "English",
-		"version": "0.9.10",
+		"version": "0.9.11",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/novelupdates.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/novelupdates/icon.png",
 		"customCSS": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/novelupdates/customCSS.css"
