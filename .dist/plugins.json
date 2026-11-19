@@ -2459,6 +2459,15 @@
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/multisrc/madara/novelbookid/icon.png"
 	},
 	{
+		"id": "novelId",
+		"name": "NovelID",
+		"site": "https://novelid.org",
+		"lang": "Bahasa Indonesia",
+		"version": "1.0.0",
+		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/indonesian/novelId.js",
+		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/id/novelId/icon.png"
+	},
+	{
 		"id": "novelringan.com",
 		"name": "NovelRingan",
 		"site": "https://novelringan.com/",
