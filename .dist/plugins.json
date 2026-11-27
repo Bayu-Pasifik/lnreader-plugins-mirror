@@ -968,7 +968,7 @@
 		"name": "KDT Novels",
 		"site": "https://kdtnovels.net/",
 		"lang": "English",
-		"version": "2.0.1",
+		"version": "2.0.2",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/kdtnovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/kdtnovels/icon.png"
 	},
@@ -1103,7 +1103,7 @@
 		"name": "LNCrawler",
 		"site": "https://lncrawler.monster",
 		"lang": "English",
-		"version": "1.1.1",
+		"version": "1.1.2",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/lncrawler.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/lncrawler/icon.png"
 	},
@@ -1598,7 +1598,7 @@
 		"name": "Novel Updates",
 		"site": "https://www.novelupdates.com/",
 		"lang": "English",
-		"version": "0.9.11",
+		"version": "0.9.12",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/novelupdates.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/novelupdates/icon.png",
 		"customCSS": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/novelupdates/customCSS.css"
@@ -2724,7 +2724,7 @@
 		"name": "HexNovels",
 		"site": "https://hexnovels.me",
 		"lang": "Русский",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/russian/hexnovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/ru/hexnovels/icon.png"
 	},
@@ -2745,6 +2745,15 @@
 		"version": "1.0.3",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/russian/jaomix.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/ru/jaomix/icon.png"
+	},
+	{
+		"id": "lorachi",
+		"name": "Lorachi",
+		"site": "https://lorachi.baconana.com",
+		"lang": "Русский",
+		"version": "1.0.3",
+		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/russian/lorachi.js",
+		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/ru/lorachi/icon.png"
 	},
 	{
 		"id": "mtlnovel-ru",
