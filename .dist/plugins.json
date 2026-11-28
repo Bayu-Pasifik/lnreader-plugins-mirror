@@ -310,7 +310,7 @@
 		"name": "Archive Of Our Own",
 		"site": "https://archiveofourown.org/",
 		"lang": "English",
-		"version": "1.0.6",
+		"version": "1.1.0",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/ao3.js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/src/en/ao3/icon.png"
 	},
@@ -1445,7 +1445,7 @@
 		"name": "Novel Fire",
 		"site": "https://novelfire.net/",
 		"lang": "English",
-		"version": "1.4.7",
+		"version": "1.4.8",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/NovelFire[novelfire].js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/multisrc/novelfire/novelfire/icon.png"
 	},
@@ -1544,7 +1544,7 @@
 		"name": "Novel Phoenix",
 		"site": "https://novelphoenix.com/",
 		"lang": "English",
-		"version": "1.0.4",
+		"version": "1.0.5",
 		"url": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/.js/src/plugins/english/NovelPhoenix[novelfire].js",
 		"iconUrl": "https://raw.githubusercontent.com/Bayu-Pasifik/lnreader-plugins-mirror/plugins/v3.0.0/public/static/multisrc/novelfire/novelphoenix/icon.png"
 	},
